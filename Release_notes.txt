@@ -1,0 +1,76 @@
+beta 1.8.2 -> 29/10/2015
+exportação de lista para envio IIRGD
+
+beta 1.8.1 -> 28/10/2015
+fixado erro de criação de pasta
+fixado erro da tecla enter
+fixado erro da 00
+
+beta 1.8 -> 26/10/2015
+
+testes no iirgd
+Adicionado MENU_ADM
+alteração na identificação da FIC
+alteração na identifacação da data
+fixado travamento ao processar lote
+
+
+beta 1.7 -> 10/09/2015
+
+adicionado relatório
+adicionado log de erros
+(importante mudar o arquivo convert.exe da pasta do imagemagick para IMconvert.exe)
+adicionada fila para arquivos não reconhecidos
+adicionado login 
+mudança na nomenclatura do arquivo final
+adicionado hotkey ENTER
+adicionado carimbo nas fics finalizadas
+
+
+beta 1.6 -> 19/08/2015
+
+exportação para txt
+(push)
+3 niveis de verificação
+fixado numero do posto
+adicionado leitura de arquivo INI
+adicionado debug
+
+beta 1.5 -> 15/08/2015
+
+aumento de performance
+substituido metodo de arquivamento de imagens base
+
+
+beta 1.4 -> 10/08/2015
+
+adicionado campo data de atendimento
+fixado função validadora
+
+
+beta 1.3 -> 05/08/2015
+
+adicionado mensagem com total de fics ao utilizar a opção lote
+versão adicionado ao titulo
+auto tabulação nos campos (quando o reconhecimento falha)
+fixado função do digito verificador
+removido mensagens de digito
+adicionado verificação de modelo de fic (busca hifen para localizar numero dentro do campo)
+adicionado imagens na base (para busca de fics antigas)
+adicionado exportação para excel
+
+
+beta 1.2 -> 29/07/2015
+
+adicionado carregamento em lote 
+fixado o reconhecimento do campo
+exportação com inclusão do digito após digito verificador
+incluido digito X
+comparação do digito verificador (função x reconhecimento)
+adicionado menu principal
+adicionado Método de Arquivamento (Lote ou Arquivo)
+
+
+beta 1.1 -> 27/07/2015
+
+incluido digito verificador 
